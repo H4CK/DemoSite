@@ -63,10 +63,10 @@
 					</form>
 					<ul class="nav navbar-nav navbar-right">
 						<li>
-							<a href="#">Link</a>
+							<a href="#">SERVICE</a>
 						</li>
 						<li class="dropdown">
-							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROFILE<strong class="caret"></strong></a>
 							<ul class="dropdown-menu">
 								<li>
 									<a href="#">Action</a>
