@@ -2,7 +2,9 @@
 include('menu.php')?>
 <div class="row">
 <form name="bucket" method="post" action="payout.php">
+<label>Items in the cart</label><br>
 	<div class="col-md-2 column">
+	
 	<?php if(isset($_POST['jack']))
 	{ 
 	$_SESSION['items']=$_POST['jack'];
@@ -26,5 +28,5 @@ echo strtoupper($_POST['cool']).'<br>';
 <br>
 <br>
 <div class="form-controls">
-<input type="submit" value="Pay Out" action="payout.php">
+<input type="submit" class="btn btn-large btn-success"value="Pay Out" action="payout.php">
 </div>
