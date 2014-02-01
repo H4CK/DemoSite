@@ -136,7 +136,7 @@
 		<div class="row clearfix">
 		&nbsp;&nbsp;&nbsp;
 		<div class="col-md-12 column">
-		<input type="submit" name="Buy"/></div>	
+		<input type="submit" class="btn btn-large btn-success" value="Buy"/></div>	
 	</div>
 </form>
 </div>
